@@ -5,7 +5,6 @@ import "./all.css";
 const Navbar = () => {
   return (
     <div>
-      <></>
       <nav className="navbar navbar-dark bg-dark fixed-top">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">

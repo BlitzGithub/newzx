@@ -20,7 +20,8 @@ const NewsItem = (props) => {
             href={newsurl}
             rel="noreferrer"
             target="_blank"
-            className="btn btn-dark btn-sm"
+            className="btn btn-sm"
+            style={{backgroundColor: "#2c3333", color:"white"}}
           >
             Read More
           </a>

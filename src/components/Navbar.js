@@ -34,7 +34,6 @@ const Navbar = () => {
           >
             <div
               className="offcanvas-header bg-dark text-light"
-              // style={{ backgroundColor: "#062C30", color: "whitesmoke" }}
             >
               <h5 className="offcanvas-title" id="offcanvasNavbarLabel">
                 NewzX
@@ -48,7 +47,6 @@ const Navbar = () => {
             </div>
             <div
               className="offcanvas-body bg-dark text-light"
-              // style={{ backgroundColor: "#062C30", color: "whitesmoke" }}
             >
               <ul className="navbar-nav justify-content-center flex-grow-1 pe-3">
                 <li className="nav-item">
